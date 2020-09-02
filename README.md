@@ -1,2 +1,3 @@
-# hydra-cms
-CMS for DFINITYs Internet Computer
+# Hydra CMS
+
+powered by DFINITYs Internet Computer
